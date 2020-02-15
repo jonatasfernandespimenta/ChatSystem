@@ -1,6 +1,6 @@
 # Chat System
 ## Using NodeJS, ReactJS and Socket.Io
-
+This is my first project using WebSockets, hope you all like it, it's kinda basic but it works. 😉
 <p align="center" style="display: flex; align-items: center; justify-content: space-around">
   <img src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" alt="nodejs" width="150">
 
@@ -26,5 +26,5 @@ and after do the same at the front folder but instead of node app.js, type:
 ```console
 hello@world:~$ npm start
 ```
-This is my first project using WebSockets, hope you all like it, it's kinda basic but it works. 😉
+
 And also my friend [Aldriê Mizobuti](http://github.com/Aldrie) helped me with it, go check his profile.
