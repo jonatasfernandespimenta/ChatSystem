@@ -9,8 +9,6 @@
   <img src="https://seeklogo.com/images/S/socketio-logo-B8A7F486CD-seeklogo.com.png" alt="reactjs" width="150">
   
 </p>
-This is my first project using WebSockets, hope you all like it, it's kinda basic but it works 😉
-
 To get started make sure you have both NodeJS and npm installed, if not, check this link: https://nodejs.org/en/download/
 And if you want to make sure you have both installed just type at the console:
 
@@ -28,5 +26,5 @@ and after do the same at the front folder but instead of node app.js, type:
 ```console
 hello@world:~$ npm start
 ```
-
+This is my first project using WebSockets, hope you all like it, it's kinda basic but it works. 😉
 And also my friend [Aldriê Mizobuti](http://github.com/Aldrie) helped me with it, go check his profile.
