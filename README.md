@@ -10,7 +10,15 @@
   
 </p>
 
-To get started open the BackEnd folder in cmd and type
+To get started make sure you have both NodeJS and npm installed, if not, check this lonk: https://nodejs.org/en/download/
+And if you want to make sure you have both installed just type at the console:
+
+```console
+hello@world:~$ node -v
+hello@world:~$ npm -v
+```
+
+After it, open the BackEnd folder in cmd and type
 ```console
 hello@world:~$ npm i
 ```
