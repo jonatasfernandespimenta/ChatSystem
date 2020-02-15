@@ -10,7 +10,7 @@
   
 </p>
 This is my first project using WebSockets, hope you all like it, it's kinda basic but it works 😉
-<br>
+</br>
 
 To get started make sure you have both NodeJS and npm installed, if not, check this link: https://nodejs.org/en/download/
 And if you want to make sure you have both installed just type at the console:
