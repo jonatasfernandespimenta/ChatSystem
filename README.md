@@ -1,4 +1,4 @@
-# Chat Syste
+# Chat System
 ## Using NodeJS, ReactJS and Socket.Io
 
 <p align="center" style="display: flex; align-items: center; justify-content: space-around">
